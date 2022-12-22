@@ -24,7 +24,7 @@ const graph2 = {
     3: [1,2],
 };
 
-// Ajacent Matrix
+// Adjacent Matrix
 
 const graph3 = [
     [0,0,1,0],
