@@ -58,7 +58,7 @@ class MySinglyLinkedList {
         }
         if (index === 0) {
 
-            returnthis.AddFirst(value);
+            return this.AddFirst(value);
         }
 
         const newNode = new Node(value);
